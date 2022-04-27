@@ -18,4 +18,6 @@ Essa será uma aplicação onde o seu principal objetivo era treinar um pouco
 
 * Para rodar os testes, execute **yarn test**.
 
+<img src="https://github.com/GeorgePeralta/DesafioIgnite/blob/main/to.do.png" />
+
 ##### [LinkedIn - George Peralta](https://www.linkedin.com/in/georgeperaltadias/)
